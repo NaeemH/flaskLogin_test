@@ -1,1 +1,3 @@
 # flaskLogin_test
+
+BOILERPLATE CODE FOR FLASK APPS
